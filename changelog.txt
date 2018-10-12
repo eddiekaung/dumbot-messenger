@@ -1,0 +1,10 @@
+Added new photos. Added Ti8 chat wheel noises. Use "chatwheel" to get sounds randomly. Removed bot function annoying your lol's. You can lol safely now.
+=====================
+
+Someone is missing some important messages in the group chat? Say no more fam. Mentioning someone's name in the group chat will now trigger the bot to notify them in their private message.
+=====================
+
+Fixed error sending some Kpop pics and gifs.
+=====================
+
+Added "polandball" command. Use "bot polandball" to get polandball comics.
